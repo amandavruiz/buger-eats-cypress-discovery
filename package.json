@@ -4,7 +4,7 @@
   "description": "Projeto de testes de aceitação do app BugerEats",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open --config-file=cypress.config.js"
+    "test": "npm run test"
   },
   "author": "Amanda Rossi",
   "license": "MIT",
