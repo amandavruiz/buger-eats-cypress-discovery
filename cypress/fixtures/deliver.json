@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Amanda Rossi",
+        "cpf": "22233344455",
+        "email": "amanda.rossi@gmail.com",
+        "whatsapp": "18990008000",
+        "address": {
+            "postalcode": "04530001",
+            "street": "Rua Doutor Renato Paes de Barros",
+            "number": "1017",
+            "details": "4º andar",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Amanda Rossi",
+        "cpf": "222333444AA",
+        "email": "amanda.rossi@gmail.com",
+        "whatsapp": "18990008000",
+        "address": {
+            "postalcode": "04530001",
+            "street": "Rua Doutor Renato Paes de Barros",
+            "number": "1017",
+            "details": "4º andar",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Amanda Rossi",
+        "cpf": "22233344455",
+        "email": "amandarossi.gmail.com",
+        "whatsapp": "18990008000",
+        "address": {
+            "postalcode": "04530001",
+            "street": "Rua Doutor Renato Paes de Barros",
+            "number": "1017",
+            "details": "4º andar",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }  
+}
